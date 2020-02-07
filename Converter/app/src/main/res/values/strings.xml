@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="conversion">Conversion:</string>
+    <string name="MtoK">Miles to Kilometers</string>
+    <string name="KtoM">Kilometers to Miles</string>
+    <string name="inputDistanceMiles">Miles Value:</string>
+    <string name="convert">CONVERT</string>
+
+</resources>
